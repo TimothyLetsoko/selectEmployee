@@ -2,7 +2,7 @@ import java.sql.*;
 
 public class Main {
     public static void main(String[] args) {
-        //create url
+        //create url string
         String url = "JDBC:mysql://127.0.0.1:3306/employee_database";
 
 
